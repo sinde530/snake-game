@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://sinde530.github.io/snake-game/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
